@@ -1,0 +1,10 @@
+#ignoring all the files and folder
+*
+
+#including only script file and ignore file
+!runme.js
+!.gitignore
+
+#including output file only
+!output/
+!output/map-specs.csv
