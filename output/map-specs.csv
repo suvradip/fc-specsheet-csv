@@ -4933,19 +4933,19 @@ france,019,PI,Picardie
 france,020,PC,Poitou-Charentes
 france,021,PR,Provence-Alpes-Côte D'Azur
 france,022,RH,Rhône-Alpes
-france2016,4,AL,Alsace Champagne-Ardenne Lorraine
-france2016,9,AQ,Aquitaine Limousin Poitou-Charentes
-france2016,10,AU,Auvergne-Rhône-Alpes
-france2016,8,BU,Bourgogne Franche-Comté
-france2016,5,BR,Bretagne
-france2016,7,CE,Centre Val de Loire
-france2016,13,CO,Corse
-france2016,3,IL,île-de-France
-france2016,11,LA,Languedoc-Roussillon Midi-Pyrénées
-france2016,1,NP,Nord-Pas-de-Calais Picardie
-france2016,2,NO,Normandie
-france2016,6,PD,Pays de la Loire
-france2016,12,PR,Provence-Alpes Côte-d'Azur
+france2016map,4,AL,Alsace Champagne-Ardenne Lorraine
+france2016map,9,AQ,Aquitaine Limousin Poitou-Charentes
+france2016map,10,AU,Auvergne-Rhône-Alpes
+france2016map,8,BU,Bourgogne Franche-Comté
+france2016map,5,BR,Bretagne
+france2016map,7,CE,Centre Val de Loire
+france2016map,13,CO,Corse
+france2016map,3,IL,île-de-France
+france2016map,11,LA,Languedoc-Roussillon Midi-Pyrénées
+france2016map,1,NP,Nord-Pas-de-Calais Picardie
+france2016map,2,NO,Normandie
+france2016map,6,PD,Pays de la Loire
+france2016map,12,PR,Provence-Alpes Côte-d'Azur
 francedepartment,FR.AI,AI,Ain
 francedepartment,FR.AS,AS,Aisne
 francedepartment,FR.AL,AL,Allier
@@ -9138,7 +9138,7 @@ luxembourg,08,RE,Redange
 luxembourg,13,RM,Remich
 luxembourg,10,VI,Vianden
 luxembourg,09,WI,Wiltz
-luxor,01,LU,Luxer
+luxer,01,LU,Luxer
 lyon,FR.LY.1e,1e,1st Arrondissement
 lyon,FR.LY.2e,2e,2nd Arrondissement
 lyon,FR.LY.3e,3e,3rd Arrondissement
@@ -11717,12 +11717,12 @@ moravia-silesia,CZ.VK.KI,KI,Karviná
 moravia-silesia,CZ.VK.NJ,NJ,Nový Ji?ín
 moravia-silesia,CZ.VK.OP,OP,Opava
 moravia-silesia,CZ.VK.OV,OV,Ostrava
-moraviasilesia,CZ.VK.BR,BR,Bruntál
-moraviasilesia,CZ.VK.FM,FM,Frýdek-Místek
-moraviasilesia,CZ.VK.KI,KI,Karviná
-moraviasilesia,CZ.VK.NJ,NJ,Nový Ji?ín
-moraviasilesia,CZ.VK.OP,OP,Opava
-moraviasilesia,CZ.VK.OV,OV,Ostrava
+moravia-silesia,CZ.VK.BR,BR,Bruntál
+moravia-silesia,CZ.VK.FM,FM,Frýdek-Místek
+moravia-silesia,CZ.VK.KI,KI,Karviná
+moravia-silesia,CZ.VK.NJ,NJ,Nový Ji?ín
+moravia-silesia,CZ.VK.OP,OP,Opava
+moravia-silesia,CZ.VK.OV,OV,Ostrava
 moreogromsdal,NO.MR.AK,AK,Aukra
 moreogromsdal,NO.MR.AU,AU,Aure
 moreogromsdal,NO.MR.AV,AV,Averøy

@@ -21,17 +21,19 @@ fs.writeFileSync(config.output + config.outputFilename, "Map Name,ID,Short Label
 
 config.files.forEach(function(file){     
   var fileData,
-      preparedData;
+      preparedData,
+      mapName;
   fileData = fs.readFileSync(config.dir+ file,'utf-8'); 
 
   try {
+    mapName = fileData.match(/####\sJavaScript Alias:\smaps\/(.*)/)[1];
     preparedData = fileData.match(/---\|---\|---\|---\n([\s\S]*?)\n\n/); 
     preparedData = preparedData[1].trim();
     preparedData = preparedData.split('|').join(',');
     preparedData = preparedData.split("\n");
 
     for(var i=0; i<preparedData.length; i++)
-      preparedData[i] = file.split(".")[0] + "," + preparedData[i];
+      preparedData[i] = mapName + "," + preparedData[i];
 
     preparedData = preparedData.join("\n");
     preparedData = preparedData + "\n";
